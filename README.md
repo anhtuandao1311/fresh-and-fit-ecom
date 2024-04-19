@@ -1,1 +1,1 @@
-@copyright by becodemy 2023
+BK Ecommerce Project by AELab
